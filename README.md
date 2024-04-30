@@ -9,8 +9,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rect/rect-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
     
     
-<div>
-<a href="https://github.com/iago187">
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago187&layout=compact&langs_count=7&theme=dracula"/><img height="130em" src="https://github-readme-stats.vercel.app/api?username=iago187&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-</div>
